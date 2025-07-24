@@ -118,7 +118,7 @@
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
   <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Contribution Activity Graph">
+  <a href="https://github.com/nigamyadav72/github-readme-activity-graph" title="Contribution Activity Graph">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nigamyadav72&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nigamyadav72&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
