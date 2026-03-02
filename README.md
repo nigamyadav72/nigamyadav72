@@ -11,7 +11,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Nigam Yadav, Web Developer/Coder 💻 &  Learner 👨‍💻 from Nepal 🇳🇵.
+  Hi, I'm Nigam Yadav, Flutter & Web Developer 💻 &  Learner 👨‍💻 from Nepal 🇳🇵.
   <br />
   <br />
   🎓 Currently a Computer Engineering Student.
